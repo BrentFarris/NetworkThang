@@ -10,11 +10,7 @@ Platform assembly: C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data
 Loading C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.040 seconds
+- Completed reload, in  0.049 seconds
 desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-The server has disconnected from the client. Most likely the server has shut down.
- 
-(Filename:  Line: 745)
-
