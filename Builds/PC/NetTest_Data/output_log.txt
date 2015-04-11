@@ -1,0 +1,20 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 3000M  (ID=0xe3a)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\student\Desktop\Network Thang\Builds\PC\NetTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
